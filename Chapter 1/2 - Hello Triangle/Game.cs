@@ -90,7 +90,7 @@ namespace LearnOpenGL_TK
 
             //Now, enable the shader.
             //Just like the VBO, this is global, so every function that uses a shader will modify this one until a new one is bound instead.
-            _shader.Use();
+            //_shader.Use();
 
 
             //Ignore this for now, it will be explained later.
